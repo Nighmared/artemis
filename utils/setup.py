@@ -31,6 +31,6 @@ setuptools.setup(
         "ipaddress==1.0.23",
         "psycopg2==2.8.4",
         "slacker-log-handler==1.7.1",
-        "tornado==6.0.4",
+        "tornado==6.4.1",
     ],
 )
